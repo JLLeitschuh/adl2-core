@@ -34,7 +34,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <guava.version>18.0</guava.version>
         <testng.version>6.9.6</testng.version>
-        <jackson.version>2.6.2</jackson.version>
+        <jackson.version>2.11.3</jackson.version>
         <antlr.version>4.5.1-1</antlr.version>
     </properties>
     <licenses>
